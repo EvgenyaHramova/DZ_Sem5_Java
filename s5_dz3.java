@@ -6,6 +6,8 @@
 // 0000x000
 // 00x00000
 
+// не решена!
+
 public class s5_dz3 {
 
     static void queen(int[][] chess_board, int gor, int vert) {
